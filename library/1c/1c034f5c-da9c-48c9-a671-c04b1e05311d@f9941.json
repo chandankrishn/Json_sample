@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "brick_breaker_back",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 625,
+      "height": 400
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 625,
+      "height": 400
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1c034f5c-da9c-48c9-a671-c04b1e05311d@6c48a",
+    "packable": true
+  }
+}

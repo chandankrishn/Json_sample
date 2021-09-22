@@ -1,0 +1,80 @@
+2021-09-22 18:26:01-log: [Package] Profile Migrate: program@Cocos Creator...
+2021-09-22 18:26:01-log: [Package] Profile Migrate: program@Cocos Creator...
+2021-09-22 18:26:01-log: [Package] Profile Migrate: device@Cocos Creator...
+2021-09-22 18:26:01-log: [Package] Profile Migrate: device@Cocos Creator...
+2021-09-22 18:26:01-log: [Package] Profile Migrate: engine@Cocos Creator...
+2021-09-22 18:26:01-log: [Package] menu@1.0.0 enable
+2021-09-22 18:26:01-log: [Package] profile@1.0.0 enable
+2021-09-22 18:26:01-log: [Package] messages@1.0.0 enable
+2021-09-22 18:26:02-log: [Package] program@1.0.0 enable
+2021-09-22 18:26:02-log: [Package] device@1.0.1 enable
+2021-09-22 18:26:02-log: [Package] ui-kit@1.0.1 enable
+2021-09-22 18:26:02-log: [Package] tester@1.0.0 enable
+2021-09-22 18:26:02-log: [Package] preferences@1.0.0 enable
+2021-09-22 18:26:02-log: Setup mods mgr.: 379.347ms
+2021-09-22 18:26:02-log: [Package] engine@1.0.5 enable
+2021-09-22 18:26:07-log: [Package] programming@1.0.0 enable
+2021-09-22 18:26:07-log: [Package] asset-db@1.0.0 enable
+2021-09-22 18:26:07-log: [Package] console@1.0.0 enable
+2021-09-22 18:26:07-log: [Package] scene@1.0.0 enable
+2021-09-22 18:26:07-log: [Package] project@1.0.1 enable
+2021-09-22 18:26:07-log: [Package] about@1.0.0 enable
+2021-09-22 18:26:08-log: [Package] server@1.0.0 enable
+2021-09-22 18:26:08-warn: Server: Port 7456 is occupied
+2021-09-22 18:26:08-log: [Package] utils@1.0.0 enable
+2021-09-22 18:26:08-log: [Package] assets@1.0.0 enable
+2021-09-22 18:26:08-log: [Package] inspector@1.0.0 enable
+2021-09-22 18:26:08-log: [Package] hierarchy@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] builder@1.2.8 enable
+2021-09-22 18:26:12-log: [Package] node-library@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] shortcuts@1.0.1 enable
+2021-09-22 18:26:12-log: [Package] importer@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] package-asset@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] reference-image@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] channel-upload-tools@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] alipay-mini-game@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] android@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] baidu-mini-game@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] bytedance-mini-game@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] huawei-agc@1.0.0 enable
+2021-09-22 18:26:12-warn: ios:Developer team information not found
+2021-09-22 18:26:12-warn: Command failed: xcrun security find-identity -v -p codesigning
+xcrun: error: active developer path ("/Applications/Xcode 10.2.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+
+2021-09-22 18:26:12-log: [Package] ios@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] ios-app-clip@1.0.0 enable
+2021-09-22 18:26:12-log: [Package] mac@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] native@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] ohos@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] web-desktop@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] web-mobile@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] wechatgame@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] windows@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] cocos-play@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] huawei-quick-game@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] link-sure@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] oppo-mini-game@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] qtt@1.0.0 enable
+2021-09-22 18:26:13-log: [Package] vivo-mini-game@1.0.0 enable
+2021-09-22 18:26:14-log: [Package] cocos-service@3.0.1 enable
+2021-09-22 18:26:14-log: [Package] extension@3.0.8 enable
+2021-09-22 18:26:14-log: [Package] im-plugin@3.0.6 enable
+2021-09-22 18:26:15-log: [Package] lightmap@1.0.3 enable
+2021-09-22 18:26:25-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2021-09-22 18:26:25-log: [Scene] begin init
+2021-09-22 18:26:25-log: [Scene] require engine end
+2021-09-22 18:26:25-log: [Scene] Serialize end
+2021-09-22 18:26:25-log: [Scene] configureStartup end
+2021-09-22 18:26:25-info: [Scene] WebGL2 device initialized.
+2021-09-22 18:26:25-log: [Scene] Cocos Creator v3.3.0
+2021-09-22 18:26:26-info: [Scene] Forward render pipeline initialized.
+2021-09-22 18:26:26-log: [Scene] openEngine end
+2021-09-22 18:26:26-log: [Scene] configureEngine end

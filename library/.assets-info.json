@@ -1,0 +1,50 @@
+{
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/script": {
+    "time": 1632315603656.7007,
+    "uuid": "572e2162-22c9-4ff1-917d-19db1ac1ff12",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/script.meta": {
+    "time": 1632315419661.8245
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/scene": {
+    "time": 1632315450525.8127,
+    "uuid": "fdb804c8-7a19-425c-9da1-96552cf9732d",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/scene.meta": {
+    "time": 1632315426065.0625
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/scene/main.scene": {
+    "time": 1632316486153.9119,
+    "uuid": "63118469-8afb-4bab-b47c-773f6d4ad7fa",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/scene/main.scene.meta": {
+    "time": 1632315436325.7031
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/scene/brick_breaker_back.jpeg": {
+    "time": 1632315450524.6064,
+    "uuid": "1c034f5c-da9c-48c9-a671-c04b1e05311d",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/scene/brick_breaker_back.jpeg.meta": {
+    "time": 1632315450547.1067
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/script/abc.ts": {
+    "time": 1632316490854.7603,
+    "uuid": "f7857675-fa39-4987-a465-d61cb3e2293e",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/script/abc.ts.meta": {
+    "time": 1632315498109.288
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/script/jsondummy.json": {
+    "time": 1632315603655.2786,
+    "uuid": "c5211140-9136-4e35-83fc-9921ab633369",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/test-project/assets/script/jsondummy.json.meta": {
+    "time": 1632315603659.7397
+  }
+}
